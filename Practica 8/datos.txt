@@ -1,0 +1,20 @@
+rmiregistry
+
+//java -Djava.security.policy=no.policy ObjRemoto
+
+//java -Djava.security.policy=no.policy cliente
+
+1- Hola
+2- Como estas?
+3- Cual es tu edad?
+4- Donde estudias?
+5- Que haces en tu tiempo libre?
+6- Tienes hermanos?
+7- Cual es tu color favorito?
+8- Que musica te gusta?
+9- Cual es tu platillo favorito?
+10-  Cual es tu materia favorita?
+11- Sabes tocar un instrumento?
+12- Adios
+13- Tienes novia?
+14- Donde vives?
